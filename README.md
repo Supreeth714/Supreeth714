@@ -1,8 +1,8 @@
-<h1 align="left">Hi 👋, I'm Supreeth<br>AI/ML Enthusiast | Full Stack Developer | Agentic AI Builder</h1>
+<h1 align="left">Hi 👋, I'm Mamidipelli Supreeth<br><br>Full Stack Developer | Agentic AI & Machine Learning Enthusiast</h1>
 
 ###
 
-<p align="left">🎓 Computer Science Engineering Student at IIIT Basar (CGPA: 8.5)<br><br>🤖 Passionate about Machine Learning, Agentic AI and Full Stack Development<br><br>🚀 Currently building AI-powered applications using LangGraph, LangChain and Ollama</p>
+<p align="left">🎓 B.Tech Computer Science Engineering student at IIIT Basar (CGPA: 8.5)<br><br>💻 Passionate about Full Stack Development, Artificial Intelligence, and Software Engineering.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 Currently learning Agentic AI, LangGraph, and RAG<br><br>💻 Building AI-powered applications with Django and Django REST Framework<br><br>🚀 Developed projects including StudyBud and PodNotes<br><br>🤖 Machine Learning Intern with experience in ML, NLP, and Computer Vision<br><br>💼 Full Stack Development Intern at Cognifyz Technologies and Thrinix<br><br>🧠 Passionate about Data Structures & Algorithms and problem solving<br><br>🎯 Aspiring Software Developer focused on AI, Machine Learning, and Agentic AI</p>
+<p align="left">🌱 Currently exploring Agentic AI, LangGraph, and Retrieval-Augmented Generation (RAG)<br><br>💻 Building AI-powered applications with Django and Django REST Framework<br><br>🚀 Developed projects including StudyBud and PodNotes<br><br>🤖 Machine Learning Intern with experience in ML, NLP, and Computer Vision<br><br>💼 Full Stack Development Intern at Cognifyz Technologies and Thrinix<br><br>🧠 Passionate about Data Structures & Algorithms and problem solving<br><br>🎯 Aspiring Software Engineer focused on AI, Machine Learning, and intelligent systems</p>
 
 ###
 
