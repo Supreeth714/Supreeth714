@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Mamidipelli Supreeth<br><br>Full Stack Developer | Agentic AI & Machine Learning Enthusiast</h1>
+<h1 align="left">Hi 👋, I'm Supreeth Mamidipelli<br><br>Full Stack Developer | Agentic AI & Machine Learning Enthusiast</h1>
 
 ###
 
